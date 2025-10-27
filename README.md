@@ -84,7 +84,7 @@ The objective is to extract insights, discover patterns, and visualize relations
 
 ---
 
-#### 6. **Summary of Findings**
+#### **Summary of Findings**
 
 | Factor       | Insight                                                  |
 | ------------ | -------------------------------------------------------- |
